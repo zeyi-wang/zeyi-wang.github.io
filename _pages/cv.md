@@ -1,15 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: "Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
-
-[Download CV here](https://zeyi-wang.github.io/files/cv.pdf)
 
 Education
 ======
